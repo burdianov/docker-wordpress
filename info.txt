@@ -6,4 +6,10 @@ http://localhost:8000/wp-admin/install.php
 
 $ git init
 
+$ git branch -M main
+$ git remote add origin https://github.com/burdianov/docker-wordpress.git
+$ git push -u origin main
 
+GitHub -> Actions -> Simple Workflow
+
+GitHub -> Settings -> Secrets -> New repository secret
