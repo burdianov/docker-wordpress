@@ -1,0 +1,9 @@
+$ docker-compose up -d
+
+$ docker ps
+
+http://localhost:8000/wp-admin/install.php
+
+$ git init
+
+
